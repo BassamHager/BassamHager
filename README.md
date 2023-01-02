@@ -9,7 +9,7 @@
 - 💬 Ask me about anything, I'll do my best to help
 - 📫 How to reach me: b2dndr1@gmail.com
 - 😄 Pronouns: He, him
-- ⚡ Fun fact: I'm trying my best to become a nerd
+- ⚡ Fun fact: I used to be a time killing machine, now I'm trying my best to become a nerd
 ---
 
 > ### 🔮 Technologies
