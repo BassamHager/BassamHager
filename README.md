@@ -1,7 +1,7 @@
 ### Hi there 👋, I'm Bassam
 ---
 
-[(my portfolio)](https://portfolio-bassamhager.vercel.app/)
+[![(my portfolio)](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQfrbkThY_v6VVaO4RwYpcN4d0WZrSSeSNelA&usqp=CAU) (my portfolio)](https://portfolio-bassamhager.vercel.app/) 
 
 ---
 
