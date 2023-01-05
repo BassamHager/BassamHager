@@ -1,4 +1,4 @@
-### Hi there 👋, I'm Bassam <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTnmZxau1zec9ZrVINPmJXHJyF0myIoGa7O-w&usqp=CAU" alt="drawing" width="100" style="border-radius:50px;float:right"/>
+### Hi there 👋, I'm Bassam <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTnmZxau1zec9ZrVINPmJXHJyF0myIoGa7O-w&usqp=CAU" alt="drawing" width="100" style="border-radius:50px;float:right;box-shadow:1px 1px 5px silver"/>
 ---
 
 [![(my portfolio)](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQfrbkThY_v6VVaO4RwYpcN4d0WZrSSeSNelA&usqp=CAU)](https://bassam-hager-portfolio-nextts.vercel.app/)
