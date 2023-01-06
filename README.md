@@ -1,4 +1,4 @@
-### <img alt='wave' src='https://gifdb.com/images/high/cute-waving-hand-animation-22zusg2o5sgv5wac.gif' width='50px' style='margin-bottom:-5px'/>Hi there, I'm Bassam  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTnmZxau1zec9ZrVINPmJXHJyF0myIoGa7O-w&usqp=CAU" alt="drawing" width="100" style="border-radius:50px;float:right;box-shadow:1px 1px 5px silver"/>
+### <img alt='wave' src='https://gifdb.com/images/high/cute-waving-hand-animation-22zusg2o5sgv5wac.gif' width='50px' style='margin-bottom:-5px'/>Hi there, I'm Bassam  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTnmZxau1zec9ZrVINPmJXHJyF0myIoGa7O-w&usqp=CAU" alt="drawing" width="100" style="border-radius:50px;float:right;box-shadow:1px 1px 5px silver;pointer-events: none"/>
 ---
 
 [![(my portfolio)](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQfrbkThY_v6VVaO4RwYpcN4d0WZrSSeSNelA&usqp=CAU)](https://bassam-hager-portfolio-nextts.vercel.app/)
