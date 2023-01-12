@@ -22,7 +22,11 @@
 &nbsp;<br>
 
 ### Github Stats
-> ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=tokyonight)
+<!-- > ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=BassamHager&show_icons=true&theme=tokyonight) -->
+
+|![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=BassamHager&theme=github_dark)|
+
+
 
 &nbsp;<br>
 &nbsp;<br>
