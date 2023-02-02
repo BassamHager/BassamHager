@@ -8,7 +8,7 @@
 ---
 
 
-- 🔭 I’m currently working with [SuperYacht Times](https://www.superyachttimes.com/)
+- 🔭 I’m currently working with [CryptoChefs]([https://www.superyachttimes.com/](https://cryptochefs.io/))
 - 🌱 I’m currently learning CyperSecurity
 - 👯 I’m looking to work as a fullstack developer
 - 🤔 I’m looking for help with mastering what I do
