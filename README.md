@@ -116,6 +116,7 @@
 
 ### 🪛 CI  
 > ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
+![GitLab CI](https://img.shields.io/badge/gitlab%20ci-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
 
 &nbsp;<br>
 &nbsp;<br>
@@ -143,6 +144,11 @@
 
 &nbsp;<br>
 &nbsp;<br>
+
+### 🐬 Fun
+> ![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)
+![CodePen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)
+![Codewars](https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=codewars&logoColor=grey)
 
 ---
 ### <div align='center'> Thanks for Reading... </div>
