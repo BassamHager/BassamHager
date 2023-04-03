@@ -11,7 +11,7 @@
 - 🔭 I’m currently working with [ABN-AMRO Bank N.V.](https://www.abnamro.com/nl/home)
 - 🌱 I’m currently learning CyperSecurity
 - 👯 I’m looking to work as a fullstack & a Blockchain smart contract developer
-- 🤔 I’m looking for help with mastering what I do/am willing to do
+- 🤔 I’m looking for help with mastering what I'm doing/willing to do
 - 💬 Ask me about anything, I'll do my best to help
 - 📫 How to reach me: b2dndr1@gmail.com
 - 😄 Pronouns: He, him
